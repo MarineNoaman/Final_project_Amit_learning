@@ -27,23 +27,23 @@ This scenario simulates the entire process of a user logging into the applicatio
 
 #### Steps:
 1. **Login**:
-    - Click on the "Login" button.
-    - Enter the username and password.
-    - Click "Login" to access the account.
+   - Click on the "Login" button.
+   - Enter the username and password.
+   - Click "Login" to access the account.
 
 2. **Add Products to Cart**:
-    - Select "Laptops" from the categories on the homepage.
-    - Choose Product 1 and add it to the cart.
-    - Go back to the homepage and select Product 2.
-    - Add Product 2 to the cart.
+   - Select "Laptops" from the categories on the homepage.
+   - Choose Product 1 and add it to the cart.
+   - Go back to the homepage and select Product 2.
+   - Add Product 2 to the cart.
 
 3. **Proceed to Checkout**:
-    - Navigate to the cart and click "Place Order".
-    - Fill in the required details such as Name, Country, City, and Credit Card Information.
-    - Confirm the purchase by clicking "Purchase".
+   - Navigate to the cart and click "Place Order".
+   - Fill in the required details such as Name, Country, City, and Credit Card Information.
+   - Confirm the purchase by clicking "Purchase".
 
 4. **Confirmation**:
-    - After the purchase, the user should see a success message confirming the order.
+   - After the purchase, the user should see a success message confirming the order.
 
 ## How to Run the Tests
 
